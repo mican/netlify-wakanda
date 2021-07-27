@@ -9,7 +9,7 @@ noUpcomingMeetupText: Details to be announced.
 mapsNote: Clicking the pin opens Google Maps in a new tab.
 callToActions:
   firstCTA:
-    heading: Past Meetups
+    heading: Past Meetuuups
     linkType: internal
     linkURL: /meetups
     subHeading: Look at what topics were presented at past meetups.
